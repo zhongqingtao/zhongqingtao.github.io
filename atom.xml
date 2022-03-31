@@ -6,7 +6,7 @@
   <link href="https://zhongqingtao.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhongqingtao.github.io/"/>
-  <updated>2021-06-14T07:43:42.866Z</updated>
+  <updated>2021-06-19T04:04:40.503Z</updated>
   <id>https://zhongqingtao.github.io/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://zhongqingtao.github.io/2021/06/19/FreeRTOS%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://zhongqingtao.github.io/2021/06/19/FreeRTOS%E5%B5%8C%E5%85%A5%E5%BC%8F%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</id>
+    <published>2021-06-19T04:04:07.728Z</published>
+    <updated>2021-06-19T04:04:40.503Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://zhongqingtao.github.io/2021/06/19/C++%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/"/>
+    <id>https://zhongqingtao.github.io/2021/06/19/C++%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</id>
+    <published>2021-06-19T04:04:07.728Z</published>
+    <updated>2021-06-19T04:04:07.728Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>全志H6开发指南</title>
+    <link href="https://zhongqingtao.github.io/2021/06/15/%E5%85%A8%E5%BF%97H6%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/"/>
+    <id>https://zhongqingtao.github.io/2021/06/15/%E5%85%A8%E5%BF%97H6%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97/</id>
+    <published>2021-06-15T15:15:15.000Z</published>
+    <updated>2021-06-15T15:18:42.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>4核ARM芯片 64位Cortex-A53架构 主频1.8G</p><p>GPU: Mali T720 主频700M 支持OpenGL ES3.0</p><p>DDR4/DDR3/LPDDR3 interface，EMMC Flash interface, supports EMMC5.0</p><p>千兆以太网 WIFI+BT USB3.0 10W双声道功放 HDMI2.0支持4K</p><p>支持全网通4G模块 支持11.6~17寸高清EDP屏（HDMI转接）</p><p>3路串口 1路RS485 5路GPIO 1路IIC 2路LED 2路麦克风</p><p>支持USB3.0摄像头 800万像素USB摄像头 双路USB摄像头</p><p>运行Android7.0操作系统 启动时间小于20秒</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;4核ARM芯片 64位Cortex-A53架构 主频1.8G&lt;/p&gt;
+&lt;p&gt;GPU: Mali T720 主频700M 支持OpenGL ES3.0&lt;/p&gt;
+&lt;p&gt;DDR4/DDR3/LPDDR3 interface，EMMC Flash interface, suppor</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>配置教程</title>
